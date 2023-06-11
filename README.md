@@ -1,2 +1,2 @@
 # Galaxz
-A wallpaper selling website 
+A wallpaper website 
